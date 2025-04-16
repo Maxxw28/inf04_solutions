@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maxxw\\source\\repos\\inf04_2025_styczen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{950A4D5C-31F4-4485-AC87-1941E5671918}|inf04_2025_styczen\\inf04_2025_styczen.csproj|c:\\users\\maxxw\\source\\repos\\inf04_2025_styczen\\inf04_2025_styczen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{950A4D5C-31F4-4485-AC87-1941E5671918}|inf04_2025_styczen\\inf04_2025_styczen.csproj|solutionrelative:inf04_2025_styczen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maxxw\\source\\repos\\inf04_2025_styczen\\inf04_2025_styczen\\Program.cs",
+              "RelativeDocumentMoniker": "inf04_2025_styczen\\Program.cs",
+              "ToolTip": "C:\\Users\\maxxw\\source\\repos\\inf04_2025_styczen\\inf04_2025_styczen\\Program.cs",
+              "RelativeToolTip": "inf04_2025_styczen\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvyUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T08:05:49.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
