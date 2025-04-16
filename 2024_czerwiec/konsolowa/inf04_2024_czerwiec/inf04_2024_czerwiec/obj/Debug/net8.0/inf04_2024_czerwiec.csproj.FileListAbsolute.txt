@@ -1,0 +1,14 @@
+C:\Users\maxxw\source\repos\inf04_2024_czerwiec\inf04_2024_czerwiec\bin\Debug\net8.0\inf04_2024_czerwiec.exe
+C:\Users\maxxw\source\repos\inf04_2024_czerwiec\inf04_2024_czerwiec\bin\Debug\net8.0\inf04_2024_czerwiec.deps.json
+C:\Users\maxxw\source\repos\inf04_2024_czerwiec\inf04_2024_czerwiec\bin\Debug\net8.0\inf04_2024_czerwiec.runtimeconfig.json
+C:\Users\maxxw\source\repos\inf04_2024_czerwiec\inf04_2024_czerwiec\bin\Debug\net8.0\inf04_2024_czerwiec.dll
+C:\Users\maxxw\source\repos\inf04_2024_czerwiec\inf04_2024_czerwiec\bin\Debug\net8.0\inf04_2024_czerwiec.pdb
+C:\Users\maxxw\source\repos\inf04_2024_czerwiec\inf04_2024_czerwiec\obj\Debug\net8.0\inf04_2024_czerwiec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxxw\source\repos\inf04_2024_czerwiec\inf04_2024_czerwiec\obj\Debug\net8.0\inf04_2024_czerwiec.AssemblyInfoInputs.cache
+C:\Users\maxxw\source\repos\inf04_2024_czerwiec\inf04_2024_czerwiec\obj\Debug\net8.0\inf04_2024_czerwiec.AssemblyInfo.cs
+C:\Users\maxxw\source\repos\inf04_2024_czerwiec\inf04_2024_czerwiec\obj\Debug\net8.0\inf04_2024_czerwiec.csproj.CoreCompileInputs.cache
+C:\Users\maxxw\source\repos\inf04_2024_czerwiec\inf04_2024_czerwiec\obj\Debug\net8.0\inf04_2024_czerwiec.dll
+C:\Users\maxxw\source\repos\inf04_2024_czerwiec\inf04_2024_czerwiec\obj\Debug\net8.0\refint\inf04_2024_czerwiec.dll
+C:\Users\maxxw\source\repos\inf04_2024_czerwiec\inf04_2024_czerwiec\obj\Debug\net8.0\inf04_2024_czerwiec.pdb
+C:\Users\maxxw\source\repos\inf04_2024_czerwiec\inf04_2024_czerwiec\obj\Debug\net8.0\inf04_2024_czerwiec.genruntimeconfig.cache
+C:\Users\maxxw\source\repos\inf04_2024_czerwiec\inf04_2024_czerwiec\obj\Debug\net8.0\ref\inf04_2024_czerwiec.dll
