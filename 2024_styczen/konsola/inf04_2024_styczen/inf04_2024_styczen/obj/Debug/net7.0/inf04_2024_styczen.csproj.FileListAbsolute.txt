@@ -1,0 +1,14 @@
+C:\Users\maxxw\source\repos\inf04_2024_styczen\inf04_2024_styczen\bin\Debug\net7.0\inf04_2024_styczen.exe
+C:\Users\maxxw\source\repos\inf04_2024_styczen\inf04_2024_styczen\bin\Debug\net7.0\inf04_2024_styczen.deps.json
+C:\Users\maxxw\source\repos\inf04_2024_styczen\inf04_2024_styczen\bin\Debug\net7.0\inf04_2024_styczen.runtimeconfig.json
+C:\Users\maxxw\source\repos\inf04_2024_styczen\inf04_2024_styczen\bin\Debug\net7.0\inf04_2024_styczen.dll
+C:\Users\maxxw\source\repos\inf04_2024_styczen\inf04_2024_styczen\bin\Debug\net7.0\inf04_2024_styczen.pdb
+C:\Users\maxxw\source\repos\inf04_2024_styczen\inf04_2024_styczen\obj\Debug\net7.0\inf04_2024_styczen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxxw\source\repos\inf04_2024_styczen\inf04_2024_styczen\obj\Debug\net7.0\inf04_2024_styczen.AssemblyInfoInputs.cache
+C:\Users\maxxw\source\repos\inf04_2024_styczen\inf04_2024_styczen\obj\Debug\net7.0\inf04_2024_styczen.AssemblyInfo.cs
+C:\Users\maxxw\source\repos\inf04_2024_styczen\inf04_2024_styczen\obj\Debug\net7.0\inf04_2024_styczen.csproj.CoreCompileInputs.cache
+C:\Users\maxxw\source\repos\inf04_2024_styczen\inf04_2024_styczen\obj\Debug\net7.0\inf04_2024_styczen.dll
+C:\Users\maxxw\source\repos\inf04_2024_styczen\inf04_2024_styczen\obj\Debug\net7.0\refint\inf04_2024_styczen.dll
+C:\Users\maxxw\source\repos\inf04_2024_styczen\inf04_2024_styczen\obj\Debug\net7.0\inf04_2024_styczen.pdb
+C:\Users\maxxw\source\repos\inf04_2024_styczen\inf04_2024_styczen\obj\Debug\net7.0\inf04_2024_styczen.genruntimeconfig.cache
+C:\Users\maxxw\source\repos\inf04_2024_styczen\inf04_2024_styczen\obj\Debug\net7.0\ref\inf04_2024_styczen.dll
