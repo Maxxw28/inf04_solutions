@@ -1,0 +1,10 @@
+C:\Users\maxxw\source\repos\inf04_2024_styczen_desktop\inf04_2024_styczen_desktop\bin\Debug\inf04_2024_styczen_desktop.exe.config
+C:\Users\maxxw\source\repos\inf04_2024_styczen_desktop\inf04_2024_styczen_desktop\bin\Debug\inf04_2024_styczen_desktop.exe
+C:\Users\maxxw\source\repos\inf04_2024_styczen_desktop\inf04_2024_styczen_desktop\bin\Debug\inf04_2024_styczen_desktop.pdb
+C:\Users\maxxw\source\repos\inf04_2024_styczen_desktop\inf04_2024_styczen_desktop\obj\Debug\inf04_2024_styczen_desktop.csproj.AssemblyReference.cache
+C:\Users\maxxw\source\repos\inf04_2024_styczen_desktop\inf04_2024_styczen_desktop\obj\Debug\inf04_2024_styczen_desktop.Form1.resources
+C:\Users\maxxw\source\repos\inf04_2024_styczen_desktop\inf04_2024_styczen_desktop\obj\Debug\inf04_2024_styczen_desktop.Properties.Resources.resources
+C:\Users\maxxw\source\repos\inf04_2024_styczen_desktop\inf04_2024_styczen_desktop\obj\Debug\inf04_2024_styczen_desktop.csproj.GenerateResource.cache
+C:\Users\maxxw\source\repos\inf04_2024_styczen_desktop\inf04_2024_styczen_desktop\obj\Debug\inf04_2024_styczen_desktop.csproj.CoreCompileInputs.cache
+C:\Users\maxxw\source\repos\inf04_2024_styczen_desktop\inf04_2024_styczen_desktop\obj\Debug\inf04_2024_styczen_desktop.exe
+C:\Users\maxxw\source\repos\inf04_2024_styczen_desktop\inf04_2024_styczen_desktop\obj\Debug\inf04_2024_styczen_desktop.pdb

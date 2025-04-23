@@ -1,0 +1,10 @@
+# Dokumentacja
+
+Normalnie w dokumentacji powinny znajdować się zdjęcia wszystkich fragmentów kodu oraz z wszystkich **stanów** aplikacji
+nazwane np: konsola1.png, konsola2.png, a w mobilnej apce: mobile1.png, mobile2.png itp
+
+Dodatkowo należy utworzyć plik word **egzamin.docx** i opisać w nim zrzuty ekranu oraz:
+‒ Nazwę systemu operacyjnego
+‒ Nazwy środowisk programistycznych
+‒ Nazwy języków programowania
+W celu oszczędzenia czasu zostawiam tylko tą instrukcje, a dokładny przykład dokumentacji znajduje się w głównym katalogu tego repo :)
